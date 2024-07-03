@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Buff Momo",
+            "desc": "Buff Momo",
+            "price": 120,
+            "color": "#33505a",
+            "image": "https://plus.unsplash.com/premium_photo-1671547329182-deaf1c94263e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+        },
+        {
+            "id": 2,
+            "name": "Chicken Biryani",
+            "desc": "Chicken Biryani",
+            "price": 350,
+            "color": "#00ac51",
+            "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Chicken-Biryani-Recipe.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Sekuwa",
+            "desc": "Sekuwa",
+            "price": 200,
+            "color": "#e0bfae",
+            "image": "https://kathmandumomo.com.au/wp-content/uploads/2020/03/KathMoMoHouseAndBar_SekuwaChicken.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Sukuti",
+            "desc": "Sukuti",
+            "price": 150,
+            "color": "#544ee4",
+            "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60"
+        },
+        {
+            "id": 5,
+            "name": "Samosa",
+            "desc": "Samosa",
+            "price": 30,
+            "color": "#e3e4e9",
+            "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60"
+        },
+        {
+            "id": 6,
+            "name": "Chatamari",
+            "desc": "Chatamari",
+            "price": 250,
+            "color": "#f73984",
+            "image": "https://romandianmasala.com/wp-content/uploads/2021/07/chatamari-500x500.jpg"
+        },
+        {
+            "id": 7,
+            "name": "French Fries",
+            "desc": "French Fries",
+            "price": 100,
+            "color": "#1c1c1c",
+            "image": "https://bellyfull.net/wp-content/uploads/2022/04/Air-fryer-french-fries-blog-1.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Pizza",
+            "desc": "Pizza",
+            "price": 400,
+            "color": "#7c95eb",
+            "image": "https://i.ebayimg.com/images/g/IKQAAOSw1e5grjR1/s-l1600.jpg"
+        }
+    ]
+}
